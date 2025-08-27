@@ -8,8 +8,8 @@ The cup provides a practical way to embed sensing technology into a familiar eve
 
 ### Hardware
 The following components are needed to assemble a cup:
-- [Zara home glasses](https://www.zarahome.com/nl/recht-kristallook-drinkglas-l40254402?ct=true&categoryId=1020261540&colorId=990)
-- [Transparent silicon sleeves](https://www.amazon.nl/dp/B0BVFHP79J?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [Zara home glasses](https://www.zara.com/nl/nl/recht-kristallook-drinkglas-p40254402.html)
+- [Transparent silicon sleeves](https://web.archive.org/web/20250827082532/https://www.amazon.nl/dp/B0BVFHP79J?ref=ppx_yo2ov_dt_b_fed_asin_title)
 - A transparent cradle. This was 3d printed by us, with xxxx filament. The design can be found [here](midge_2%202025-05-19%2009-57-53%2019%20May%202025%2009-57AM.stl))
 - [a Midge](https://github.com/TUDelft-SPC-Lab/spcl_midge_hardware)
 - Some double sided tape(optional)
