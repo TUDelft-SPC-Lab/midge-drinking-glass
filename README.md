@@ -15,24 +15,25 @@ The following components are needed to assemble a cup:
 - [SPCL Midge Badges](https://github.com/TUDelft-SPC-Lab/spcl_midge_hardware)
 - Double sided tape (optional)
 
-The software required for the initialization of the midge and its software can be found both in its [hardware](https://github.com/TUDelft-SPC-Lab/spcl_midge_hardware) and [software](https://github.com/TUDelft-SPC-Lab/midge-code) repositories. 
+### Assembly
 
-### Assembly / Getting Started
-1. The Smart Cup can be assembled by first turning the midge on and placing it in the cradle then attaching double sided tape to it. 
-2. Ensure that the midge is resting on the extruding bit of plastic at the bottom of the cradle
-3. Then the glass should be placed above the cradle, and you should push the midge upwards from the opposite hole of the cradle, so that the tape sticks to the bottom of the glass
+The Smart Cup can be assembled by:
+1. Turn the midge on and placing it in the cradle.
+2. Attach attaching double sided tape to the midge.
+2. Ensure that the midge is resting on the extruding bit of plastic at the bottom of the cradle.
+3. Then the glass should be placed above the cradle, and you should push the midge upwards from the opposite hole of the cradle, so that the tape sticks to the bottom of the glass.
 4. Then the whole thing should be pressed into the sleeves tightly. 
-5. Ensure that the cradle and glass are straight and coincide with one another
-
+5. Ensure that the cradle and glass are straight and coincide with one another.
 
 ## Operation
 
-During assembly the midge should have been left on.
-In this case following the instructions of the midge initialization, you can connect to the midge via the code in [this](https://github.com/TUDelft-SPC-Lab/midge-code) repository.
-After connecting to the midge via the interface of your choice, you can turn on the microphone/IMU/Bluetooth sensor data and the midge will begin recording, so you can use the glass as you wish. 
-
-When the experiment is done, any liquid in the glass should be removed, and the glass should be taken out of the sleeve.
-After this the Midge can safely be extracted from the cradle.
-Take care to carefully remove the double sided tape from the midge before doing this.
-Once the midge is removed, you can stop the recording from your laptop, and then extract the SD card from the midge which is where all the relevant data will be. 
+To start the data collection follow this procedure after assembling the cup:
+1. Follow the start recording procedure described [here](https://github.com/TUDelft-SPC-Lab/midge-code?tab=readme-ov-file#recording-data).
+3. Perform the experiment. The glass should be filled with liquid, and can be used as a normal drinking glass.
+4. When the experiment is done, any liquid in the glass should be removed.
+5. Take the glass out of the sleeve.
+7. Carefully remove the double sided tape from the midge.
+6. Extract the midge from the cradle.
+7. Stop the recording by turning off the sensors.
+8. Follow the data extraction and processing procedure described [here](https://github.com/TUDelft-SPC-Lab/midge-code?tab=readme-ov-file#recording-data).
 
