@@ -10,7 +10,6 @@ This approach can be replicated in other contexts where seamless integration of 
 ### Hardware
 The following components are needed to assemble a cup:
 - [Zara home cups](https://www.zara.com/nl/nl/recht-kristallook-drinkglas-p40254402.html), local copy of the website [here](zara%20glasses.html)
--  <iframe src="./zara%20glasses.html" width="800" height="600"></iframe>.
 - [Transparent silicon sleeves](https://web.archive.org/web/20250827082532/https://www.amazon.nl/dp/B0BVFHP79J?ref=ppx_yo2ov_dt_b_fed_asin_title)
 - A transparent cradle. This was 3d printed by us, with xxxx filament. The design file can be found [here](midge_2%202025-05-19%2009-57-53%2019%20May%202025%2009-57AM.stl)
 - [SPCL Midge Badges](https://github.com/TUDelft-SPC-Lab/spcl_midge_hardware)
