@@ -24,7 +24,8 @@ The Smart Cup can be assembled by:
 3. Then the cup should be placed above the cradle, and you should push the midge upwards from the opposite hole of the cradle, so that the tape sticks to the bottom of the cup.
 4. Then the whole thing should be pressed into the sleeves tightly. 
 5. Ensure that the cradle and cup are straight and coincide with one another.
-A video of the assembly can be found [here](./493(1).mp4)
+   
+A video of the assembly can be found [here](./493(1).mov)
 
 ## Operation
 
